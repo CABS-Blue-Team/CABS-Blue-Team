@@ -5,7 +5,7 @@ Desarrollándome con disciplina para convertirme en **Analista SOC L1 / Ciberseg
 ---
 
 ## 🚀 Mi Enfoque y Trayectoria
-*   💻 **Hard Hardware:** Trabajo desde mi entorno optimizado (Ryzen 7) configurando laboratorios prácticos y entornos de simulación.
+*   💻 **Hardware:** Trabajo desde mi entorno optimizado (Ryzen 7) configurando laboratorios prácticos y entornos de simulación.
 *   🧠 **Aprendizaje Continuo:** Actualmente cursando el *Google Cybersecurity Professional Certificate* en Coursera.
 *   🛠️ **Formación Técnica:** Técnico en Sistemas y Técnico Audiovisual, combinando la gestión de recursos digitales con la infraestructura informática.
 
